@@ -1,0 +1,36 @@
+# Dossiers
+/target/
+/bin/
+/out/
+/.gradle/
+/.idea/
+/.settings/
+/.vscode/
+/.project/
+/.classpath/
+
+# Fichiers de build
+*.class
+*.war
+*.ear
+*.jar
+
+*.project
+*.classpath
+
+# Fichiers d'environnement
+*.iml
+*.log
+
+# Fichiers d'éclipse
+.settings/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichier de data
+.dat
+
+#Temporairement
+*.css
